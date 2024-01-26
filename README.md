@@ -15,3 +15,6 @@ The funny thing is that alphaGo or deep-mind are not built by play go; they lear
 **put thuo foolish mock to the rest**
 
  like "nothing but rely on its out-matched computing power to move the most possibility move"
+
+ # MOVES
+ there are some strong and good shape like tiny knight's move, interesting
